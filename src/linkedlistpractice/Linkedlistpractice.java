@@ -7,7 +7,7 @@ package linkedlistpractice;
 
 /**
  *
- * @author appzone
+ * @author Harny
  */
 public class Linkedlistpractice {
 
